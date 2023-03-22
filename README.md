@@ -8,4 +8,5 @@
 * web development with Django
 * Frontend full pack development (including HTML5, CSS3, Js, Ajax, Bootstrap, Sass)
 
-![Chrome-red-painted-swatch-203-FB (2)](https://user-images.githubusercontent.com/95845593/226826081-7b61cfbd-87a1-436c-95ac-da63dd55fc73.jpg)
+![Chrome-red-painted-swatch-203-FB (2)](https://user-images.githubusercontent.com/95845593/226826364-c46f00dc-413f-4352-a728-c5e594ed8524.png)
+
