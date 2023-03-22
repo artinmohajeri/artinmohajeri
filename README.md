@@ -4,4 +4,4 @@
 ### I passed 3 courses there!
 * programming with Python
 * web development with Django
-
+* Frontend full pack development (including HTML5, CSS3, Js, Ajax, Bootstrap, Sass)
