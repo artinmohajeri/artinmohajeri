@@ -1,12 +1,7 @@
-![472108440_HELLO_STICKER_400px](https://user-images.githubusercontent.com/95845593/226935887-fa842b20-b539-4478-b622-cfc39fa921dc.gif)
-
-
+## Hello
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran
-![greenLine](https://user-images.githubusercontent.com/95845593/226828391-4c32cd5b-8a54-4ccb-ad0a-a9197cf9e895.png)
 ### I am an entry level fullstack web developer and I have been programming for almost 2 years. 
-![orangeLine](https://user-images.githubusercontent.com/95845593/226828944-dd1a6e23-94bd-4daa-a29b-3b73e8b980e7.png)
-
 ### I studied programming in a private institution called [TIT (Tehran Istitute of Technology)](https://www.linkedin.com/company/mft-tit/people/).
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
