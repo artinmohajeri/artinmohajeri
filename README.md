@@ -1,4 +1,4 @@
-## Hello     ![waving-hand (1)](https://user-images.githubusercontent.com/95845593/227130729-0e0cb4f2-6f89-4719-954d-da696a9df695.gif)
+# Hello   ![waving-hand (1)]
 
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran
