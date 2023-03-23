@@ -1,4 +1,4 @@
-# Hello   ![waving-hand (1)]
+# Hello   ![waving-hand (1).gif]
 
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran
