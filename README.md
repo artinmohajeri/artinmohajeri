@@ -1,5 +1,4 @@
-# Hello   ![waving-hand (1).gif]
-
+# Hello   ![waving-hand (1)](https://user-images.githubusercontent.com/95845593/227130937-a69171ca-381d-4fe7-a192-26209faf8054.gif)
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran
 ### I am an entry level fullstack web developer and I have been programming for almost 2 years. 
