@@ -1,5 +1,6 @@
 ![Hello_Hello](https://user-images.githubusercontent.com/95845593/227131628-f41e0aa1-72d7-4718-b703-5beab3ef15df.png)
-![waving-hand (1)](https://user-images.githubusercontent.com/95845593/227130937-a69171ca-381d-4fe7-a192-26209faf8054.gif)
+![waving-hand (2)](https://user-images.githubusercontent.com/95845593/227132383-7691337c-3295-4d96-970d-af8ff797bb33.gif)
+
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran
 ### I am an entry level fullstack web developer and I have been programming for almost 2 years. 
