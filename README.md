@@ -13,7 +13,7 @@
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
-### My skills ↓
+### My skills 👇
 * python
 * django
 * html & css
