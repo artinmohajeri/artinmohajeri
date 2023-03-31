@@ -15,7 +15,7 @@
 
 ### My first experience was programming with python. I develope games with ***Pygame*** library
 
-![orangeLine](https://user-images.githubusercontent.com/95845593/229168838-f86cb665-66a6-443f-b19e-a77996e8df32.png)
+![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
 ### My skills 👇
 * python
