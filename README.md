@@ -13,7 +13,7 @@
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
-### My first experience was programming with python. I develope games with ***pygame*** library
+### My first experience was programming with python. I develope games with ***Pygame*** library
 
 ![orangeLine](https://user-images.githubusercontent.com/95845593/229168838-f86cb665-66a6-443f-b19e-a77996e8df32.png)
 
