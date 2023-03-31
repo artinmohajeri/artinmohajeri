@@ -13,6 +13,10 @@
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
+### My first experience was programming with python. I develope games with pygame library
+
+![orangeLine](https://user-images.githubusercontent.com/95845593/229168838-f86cb665-66a6-443f-b19e-a77996e8df32.png)
+
 ### My skills 👇
 * python
 * django
@@ -24,10 +28,6 @@
 * api
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
-
-#### My first experience was programming with python. I develope games with pygame library
-
-![orangeLine](https://user-images.githubusercontent.com/95845593/229168838-f86cb665-66a6-443f-b19e-a77996e8df32.png)
 
 ### My social links 👇
 ![whatsapp](https://user-images.githubusercontent.com/95845593/227444840-31ea6398-96e2-4d17-b9b0-70e0f7e0bf97.png) [![linkedin](https://user-images.githubusercontent.com/95845593/227445496-7a1f7990-871d-440e-a85c-0b28ecb9898e.png)](https://www.linkedin.com/in/artin-mohajeri/)  [![telegram](https://user-images.githubusercontent.com/95845593/227445657-481bf0b6-4bb2-4254-a683-3f5475c6ab93.png)](https://web.telegram.org/k/#@artin_mohajeri)  [![My project (5)](https://user-images.githubusercontent.com/95845593/227445861-479b5125-ec99-4e05-b507-c20147f08724.png)](https://www.instagram.com/artin.mohajeri)
