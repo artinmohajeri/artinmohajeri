@@ -25,7 +25,7 @@
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
 
-#### My first experience was programming with python
+#### My first experience was programming with python. I develope games with pygame library
 
 ![orangeLine](https://user-images.githubusercontent.com/95845593/229168838-f86cb665-66a6-443f-b19e-a77996e8df32.png)
 
