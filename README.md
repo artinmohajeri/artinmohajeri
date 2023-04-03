@@ -32,7 +32,3 @@
 ### My social links 👇
 ![whatsapp](https://user-images.githubusercontent.com/95845593/227444840-31ea6398-96e2-4d17-b9b0-70e0f7e0bf97.png) [![linkedin](https://user-images.githubusercontent.com/95845593/227445496-7a1f7990-871d-440e-a85c-0b28ecb9898e.png)](https://www.linkedin.com/in/artin-mohajeri/)  [![telegram](https://user-images.githubusercontent.com/95845593/227445657-481bf0b6-4bb2-4254-a683-3f5475c6ab93.png)](https://web.telegram.org/k/#@artin_mohajeri)  [![My project (5)](https://user-images.githubusercontent.com/95845593/227445861-479b5125-ec99-4e05-b507-c20147f08724.png)](https://www.instagram.com/artin.mohajeri)
 
-
-
-[تمرین.docx](https://github.com/artinmohajeri/artinmohajeri/files/11135716/default.docx)
-
