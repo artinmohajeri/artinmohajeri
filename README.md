@@ -18,8 +18,8 @@
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
 ### My skills 👇
-* Python
-* Django
+* python
+* django
 * html & css
 * javascript
 * react js
