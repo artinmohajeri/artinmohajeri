@@ -18,8 +18,8 @@
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
 ### My skills 👇
-* python
-* django
+* Python
+* Django
 * html & css
 * javascript
 * react js
@@ -27,6 +27,7 @@
 * sass
 * api
 * database & sql
+* aws
 
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
