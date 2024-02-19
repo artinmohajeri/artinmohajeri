@@ -25,6 +25,8 @@
 * sass
 * api
 * database & sql
+* electron (converts web applicatinos into desktop application)
+* webintoapp (converts web applications into a android application)
 * aws
 
 
