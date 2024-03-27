@@ -19,9 +19,10 @@ My journey started with Python, a language I fell in love with for its simplicit
 
 When it comes to web development, I've got you covered! HTML, CSS, Sass, Bootstrap, Js - you name it, I've tinkered with it. And let's not forget about Django, where I've dipped my toes into backend development, building some pretty cool web apps along the way.
 
-JavaScript is my jam for adding interactivity to websites, and I'm constantly learning more about the latest and greatest, like React.js. While I'm still getting the hang of it, I'm excited to dive deeper and see what I can create. (I am also familliar to technologies such as electron and other techniques to create desktop and mobile application just from HTML,CSS,JS)
+JavaScript is my jam for adding interactivity to websites, and I'm constantly learning more about the latest and greatest, like React.js. While I'm still getting the hang of it, I'm excited to dive deeper and see what I can create. 
+(I am also familliar to technologies such as electron and other techniques to create desktop and mobile application just from HTML,CSS,JS)
 
-With over 70 projects under my belt, I'm not just all talk. I've got the experience to back it up. And guess what? I'm always hungry for more knowledge. Whether it's picking up a new language or mastering a new framework, I'm up for the challenge.
+With over 70 projects under my belt, I'm not just all talk. I've got the experience to back it up. And I'm always hungry for more knowledge.
 
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
