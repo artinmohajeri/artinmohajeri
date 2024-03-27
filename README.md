@@ -35,6 +35,7 @@ With over 70 projects under my belt, I'm not just all talk. I've got the experie
 * ajax
 * sass
 * electron and ... (to convert webapps to desktop/mobile apps)
+* version controlling using (git and github)
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
 
