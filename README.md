@@ -28,18 +28,13 @@ With over 70 projects under my belt, I'm not just all talk. I've got the experie
 
 ### My skills 👇
 * python
-* django
+* django & flask
 * html & css
 * javascript
 * react js
 * ajax
 * sass
-* api
-* database & sql
-* electron (converts web applicatinos into desktop application)
-* webintoapp (converts web applications into a android application)
-* aws
-
+* electron and ... (to convert webapps to desktop/mobile apps)
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
 
