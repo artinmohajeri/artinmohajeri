@@ -15,7 +15,7 @@
 
 ## my professional roadmap 👇
 
-My journey started with Python, a language I fell in love with for its simplicity and versatility. I've dabbled in a bunch of cool libraries like BeautifulSoup, Selenium, numpy, OpenCV, Tkinter, Pygame, and Flask, using them for everything from web-scrapping to building fun games.
+My journey started with Python, a language I fell in love with for its simplicity and versatility. I've dabbled in a bunch of cool libraries like pandas, BeautifulSoup, Selenium, numpy, OpenCV, Tkinter, Pygame, and Flask, using them for data-analysis, building GUIs, computer vision, web-scrapping and building fun games.
 
 When it comes to web development, I've got you covered! HTML, CSS, Sass, Bootstrap, Js - you name it, I've tinkered with it. And let's not forget about Django, where I've dipped my toes into backend development, building some pretty cool web apps along the way.
 
