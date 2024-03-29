@@ -23,7 +23,7 @@ Furthuremore, I am familiar to React js and React frameworks such as Redux. I am
 
 - (I am also familliar to technologies such as electron and other techniques to create desktop/mobile application just with HTML,CSS,JS)
 
-With over 70 small and big projects in my github, I am not just all talk. I have got self-experience to back it up. And I am always hungry for more knowledge.
+With over 70 projects in my github, I am not just all talk. I have got self-experience to back it up. And I am always hungry for more knowledge.
 
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
