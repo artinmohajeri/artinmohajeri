@@ -8,8 +8,8 @@
 
 ### I studied 3 courses in TIT 👇
 * programming with Python
-* web development with Django
-* Frontend full pack development including (HTML5, CSS3, Javascript, Ajax, Bootstrap, LESS, SASS)
+* web development with Django & rest-framework
+* frontend full pack development including (HTML5, CSS3, Javascript, Ajax, Bootstrap, LESS, SASS)
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
