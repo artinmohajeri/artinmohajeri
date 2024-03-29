@@ -21,7 +21,7 @@ When it comes to web development, I have experience working with HTML, CSS, Sass
 
 Furthuremore, I am familiar to React js and React frameworks such as Redux. I am constantly learning more about this powerfull framework.
 
-- (I am also familliar to technologies such as electron and other techniques to create desktop/mobile application just with HTML,CSS,JS)
+- (I am also familliar with technologies such as electron and other techniques to create desktop/mobile application just with HTML,CSS,JS)
 
 With over 70 projects in my github, I am not just all talk. I have got self-experience to back it up. And I am always hungry for more knowledge.
 
