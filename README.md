@@ -19,7 +19,7 @@ My journey started with Python, a language I fell in love with for its simplicit
 
 When it comes to web development, I have experience working with HTML, CSS, Sass, Bootstrap5, Javascript ES6. And let's not forget about Django, where I am experenced working in backend development, building some pretty cool web apps along the way.
 
-Furthuremore, I am familiar to React js and React frameworks such as Redux and materialUI. I am constantly learning more about this powerfull framework.
+Furthuremore, I am familiar to React js and React libraries such as materialUI. I am constantly learning more about this powerfull framework.
 
 - (I am also familliar with technologies such as electron and other techniques to create desktop/mobile application just with HTML,CSS,JS)
 
