@@ -29,13 +29,13 @@ With over 70 projects in my github, I am not just all talk. I have got self-expe
 
 ### My skills 👇
 * python
-* django & flask
+* django & flask 
 * html & css
 * javascript
 * react js
 * sass
-* electron , webintoapps & ... (to convert webapps to desktop/mobile apps)
 * version controlling using (git and github)
+* electron , webintoapps & ... (to convert webapps to desktop/mobile apps)
 
 ![greenLine](https://user-images.githubusercontent.com/95845593/227440363-d15769cb-a836-41b4-a141-c7eb8ef08561.png)
 
