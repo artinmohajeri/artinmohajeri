@@ -7,9 +7,9 @@
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
 ### I studied 3 courses in TIT 👇
-• programming with Python
-• web development with Django & rest-framework
-• frontend full pack development including (HTML5, CSS3, Javascript, Ajax & Fetching, Bootstrap, SASS)
+* programming with Python
+* web development with Django & rest-framework
+* frontend full pack development including (HTML5, CSS3, Javascript, Ajax & Fetching, Bootstrap, SASS)
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
