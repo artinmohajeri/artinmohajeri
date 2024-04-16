@@ -6,12 +6,10 @@
 ### I studied programming in a private institution called [TIT (Tehran Istitute of Technology)](https://www.linkedin.com/company/mft-tit/people/).
 ![Chrome-red-painted-swatch-203-FB (2) (2)](https://user-images.githubusercontent.com/95845593/226827146-a5c7abde-57a1-49c0-9d41-26b2966c583c.png)
 
-### I studied 3 courses in TIT 👇
+### I studied 3 courses in TIT (You can see my certificates in my linkedin) 👇
 * programming with Python
 * web development with Django & rest-framework
 * frontend full pack development including (HTML5, CSS3, Javascript, Ajax & Fetching, Bootstrap, SASS)
-
-![qr1](https://github.com/artinmohajeri/artinmohajeri/assets/95845593/5243cba9-e99c-475d-ba29-cf59b3c4d950)
 
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
