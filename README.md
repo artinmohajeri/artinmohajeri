@@ -11,8 +11,7 @@
 * web development with Django & rest-framework
 * frontend full pack development including (HTML5, CSS3, Javascript, Ajax & Fetching, Bootstrap, SASS)
 
-![frontend-pack](https://github.com/artinmohajeri/artinmohajeri/assets/95845593/b4998169-b343-4414-9b96-9f63d8a21004)
-
+![qr1](https://github.com/artinmohajeri/artinmohajeri/assets/95845593/5243cba9-e99c-475d-ba29-cf59b3c4d950)
 
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
