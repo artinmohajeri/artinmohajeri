@@ -2,41 +2,43 @@
 
 
 ### My fullname is Artin mohajeri and I live in Tehran, Iran.
-### I'm a Mid-level fullstack developer (Next.js and Django) - +3 years experiene.
-### I'm currently working with a UK-based company Alesa Ai.
+### I'm a Mid-level fullstack developer (Next.js and Django) +3 years experiene.
+### I'm currently working with a UK-based company, Alesa Ai.
 ### I studied programming in a private institution called [TIT (Tehran Istitute of Technology)](https://www.linkedin.com/company/mft-tit/people/).
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
 ### I studied 3 courses in TIT (You can see my certificates in my linkedin) 👇
 * programming with Python
-* web development with Django & rest-framework
+* backend development with Django & rest-framework
 * frontend full pack development including (HTML5, CSS3, Javascript, Ajax & Fetching, Bootstrap, SASS)
 
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
-## my professional roadmap 👇
+## 🚀 Programming Roadmap  
 
-My journey started with Python, a language I fell in love with for its simplicity and versatility. I've dabbled in a bunch of cool libraries like pandas, BeautifulSoup, Selenium, numpy, OpenCV, Tkinter, Pygame, and Flask, using them for data-analysis, building GUIs, computer vision, web-scrapping and building fun games. Feel free to look at my repositories where I have different projects using those libraries.
+I began my journey with **Python**, leveraging its versatility to work with libraries like **pandas, NumPy, OpenCV, Flask, and Django** for data analysis, computer vision, and backend development. I’ve also built GUIs (**Tkinter, Pygame**) and automated web scraping tasks (**BeautifulSoup, Selenium**).  
 
-When it comes to web development, I have experience working with HTML, CSS, Sass, Bootstrap5, Javascript ES6. And let's not forget about Django, where I am experenced working in backend development, building some pretty cool web apps along the way.
+In **web development**, I work with:  
+- **Frameworks**: Next.js, React.js  
+- **Frontend**: HTML, CSS (SCSS, Bootstrap, Tailwind.css), JavaScript (ES6+)  
+- **UI Libraries**: Material UI (MUI), Radix UI  
+- **Backend**: Django (Python)  
+- **Cross-Platform**: Electron for desktop apps, Webintoapps for mobile apps
 
-Furthuremore, I am familiar to React js and React libraries such as materialUI. I am constantly learning more about this powerfull framework.
-
-- (I am also familliar with technologies such as electron and other techniques to create desktop/mobile application just with HTML,CSS,JS)
-
-With over 70 projects in my github, I am not just all talk. I have got self-experience to back it up. And I am always hungry for more knowledge.
+With **80+ projects on GitHub**, I combine hands-on experience with a commitment to continuous learning.  
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
-### My skills 👇
-* Next.js & React.js
-* Django & Rest_framework
-* python
-* html & css
-* javascript
-* SCSS
-* version controlling using (git and github)
+### 🌟 My Soft Skills  
+
+- **Leadership**: Managed and guided interns, fostering their growth through code reviews, task delegation, and iterative feedback—resulting in improved project outcomes and team efficiency.  
+- **Problem-Solving**: Breaking down complex challenges into actionable steps.  
+- **Adaptability**: Quickly learning new technologies and adjusting to project needs.  
+- **Collaboration**: Experience working in teams, open to feedback, and communicating clearly.  
+- **Attention to Detail**: Writing clean, maintainable code and thorough debugging.  
+- **Time Management**: Balancing multiple projects while meeting deadlines.  
+- **Self-Motivation**: Continuously expanding my skills through hands-on projects.  
 
 ![Solid_blue svg](https://user-images.githubusercontent.com/95845593/226827645-b4dc6ae5-80dc-43bd-a152-61578b6f77f2.png)
 
